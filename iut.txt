@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biografía de Peter Higgs</title>
+</head>
+<body bgcolor="#FFFFFF">
+    <table border="2" cellpadding="3" cellspacing="10" bordercolor="white" width="80%" align="center">
+        <caption align="top">
+            <font color="red" size="19" face="Arial">Biografia de Peter Higgs</font>
+        </caption>
+        <tr align="center">
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="C:\Users\Hogar\Downloads\descarga.webp" width="200" height="290" alt="Peter Higgs">
+            </td>
+            <td width="60%">
+                <font color="Black" size="3" face="Arial">
+                    Peter Ware Higgs es un físico teórico británico nacido el 29 de mayo de 1929 en Newcastle upon Tyne, Inglaterra. Es conocido por proponer el mecanismo de Higgs, que postula la existencia del campo de Higgs y su correspondiente bosón de Higgs, una partícula fundamental en el modelo estándar de física de partículas. Higgs estudió física en el King's College de Londres, donde completó su doctorado. En 1964, publicó su teoría sobre el mecanismo de Higgs, la cual fue confirmada experimentalmente en 2012 con el descubrimiento del bosón de Higgs en el Gran Colisionador de Hadrones del CERN. Este descubrimiento le valió el Premio Nobel de Física en 2013. La contribución de Higgs ha sido fundamental para nuestra comprensión de cómo las partículas adquieren masa, y su trabajo sigue siendo una piedra angular en la física moderna.
+                </font>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
